@@ -1,0 +1,167 @@
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe.config
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\OracleConnect.pdb
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Buffers.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Memory.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Text.Json.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.dll
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Buffers.xml
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Memory.xml
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Text.Json.xml
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.xml
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.AssemblyReference.cache
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.CoreCompileInputs.cache
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.CopyComplete
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\obj\Debug\OracleConnect.exe
+C:\Users\PC-19\source\repos\OracleConnect\OracleConnect\obj\Debug\OracleConnect.pdb
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe.config
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\OracleConnect.pdb
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Buffers.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Memory.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Text.Json.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.dll
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Buffers.xml
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Memory.xml
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.xml
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.xml
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Text.Json.xml
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.xml
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.AssemblyReference.cache
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.CoreCompileInputs.cache
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\obj\Debug\OracleConnect.exe
+E:\04_박종순\부산항만\RnD\OracleConnect\OracleConnect\obj\Debug\OracleConnect.pdb
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe.config
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\OracleConnect.pdb
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Buffers.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Memory.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Text.Json.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Buffers.xml
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Memory.xml
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.xml
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.xml
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Text.Json.xml
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.xml
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.CoreCompileInputs.cache
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\obj\Debug\OracleConnect.exe
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\obj\Debug\OracleConnect.pdb
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\bin\Debug\websocket-sharp.dll
+E:\04_박종순\부산항만\1_OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.AssemblyReference.cache
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe.config
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\OracleConnect.pdb
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Buffers.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Memory.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Text.Json.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Buffers.xml
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Memory.xml
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Text.Json.xml
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.xml
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\obj\Debug\OracleConnect.csprojAssemblyReference.cache
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.CoreCompileInputs.cache
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.CopyComplete
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\obj\Debug\OracleConnect.exe
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\obj\Debug\OracleConnect.pdb
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eto00\OneDrive\문서\카카오톡 받은 파일\1_OracleConnect\OracleConnect\bin\Debug\Newtonsoft.Json.xml
+C:\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe.config
+C:\OracleConnect\OracleConnect\bin\Debug\OracleConnect.exe
+C:\OracleConnect\OracleConnect\bin\Debug\OracleConnect.pdb
+C:\OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\OracleConnect\OracleConnect\bin\Debug\Newtonsoft.Json.dll
+C:\OracleConnect\OracleConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\OracleConnect\OracleConnect\bin\Debug\System.Buffers.dll
+C:\OracleConnect\OracleConnect\bin\Debug\System.Memory.dll
+C:\OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.dll
+C:\OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.dll
+C:\OracleConnect\OracleConnect\bin\Debug\System.Text.Json.dll
+C:\OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.dll
+C:\OracleConnect\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\OracleConnect\OracleConnect\bin\Debug\Newtonsoft.Json.xml
+C:\OracleConnect\OracleConnect\bin\Debug\System.Buffers.xml
+C:\OracleConnect\OracleConnect\bin\Debug\System.Memory.xml
+C:\OracleConnect\OracleConnect\bin\Debug\System.Numerics.Vectors.xml
+C:\OracleConnect\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\OracleConnect\OracleConnect\bin\Debug\System.Text.Encodings.Web.xml
+C:\OracleConnect\OracleConnect\bin\Debug\System.Text.Json.xml
+C:\OracleConnect\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\OracleConnect\OracleConnect\bin\Debug\System.ValueTuple.xml
+C:\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csprojAssemblyReference.cache
+C:\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.CoreCompileInputs.cache
+C:\OracleConnect\OracleConnect\obj\Debug\OracleConnect.csproj.CopyComplete
+C:\OracleConnect\OracleConnect\obj\Debug\OracleConnect.exe
+C:\OracleConnect\OracleConnect\obj\Debug\OracleConnect.pdb
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\OracleConnect.exe.config
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\OracleConnect.exe
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\OracleConnect.pdb
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\obj\Debug\OracleConnect.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\obj\Debug\OracleConnect.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\obj\Debug\OracleConnect.csproj.CopyComplete
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\obj\Debug\OracleConnect.exe
+C:\Users\user\Desktop\BUSAN_OracleConnect_20220125\OracleConnect\obj\Debug\OracleConnect.pdb

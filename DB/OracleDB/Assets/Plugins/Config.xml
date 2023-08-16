@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Configuration>
+	<DATABASE>
+		<D_ADDR01>192.168.50.37</D_ADDR01>
+		<D_ADDR02>192.168.50.37</D_ADDR02>
+		<PORT>15211</PORT>
+		<USER_TSB>tsb</USER_TSB>
+		<PWD_TSB>tsb00</PWD_TSB>
+		<USER_KINET>klnet</USER_KINET>
+		<PWD_KINET>klnet02</PWD_KINET>
+		<USER_GMT>gmt</USER_GMT>
+		<PWD_GMT>gmt03</PWD_GMT>
+		<USER_KESTI>kesti</USER_KESTI>
+		<PWD_KESTI>kesti04</PWD_KESTI>
+		<USER_SJU>sju</USER_SJU>
+		<PWD_SJU>sju05</PWD_SJU>
+		<SID>ORCL</SID>
+		<SERVICE_NAME>ORCL</SERVICE_NAME>
+	</DATABASE>
+</Configuration>
